@@ -1,0 +1,2 @@
+../src/wwdt_nss.c:42:6:Chip_WWDT_Feed	0	static
+../src/wwdt_nss.c:24:6:Chip_WWDT_Start	8	static

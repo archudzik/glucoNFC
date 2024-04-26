@@ -1,0 +1,8 @@
+../src/eeprom_nss.c:57:13:CommitAndFlush	0	static
+../src/eeprom_nss.c:98:13:Write	24	static
+../src/eeprom_nss.c:155:6:Chip_EEPROM_Init	8	static
+../src/eeprom_nss.c:180:6:Chip_EEPROM_DeInit	8	static
+../src/eeprom_nss.c:189:6:Chip_EEPROM_Flush	8	static
+../src/eeprom_nss.c:196:6:Chip_EEPROM_Read	16	static
+../src/eeprom_nss.c:255:6:Chip_EEPROM_Write	8	static
+../src/eeprom_nss.c:261:6:Chip_EEPROM_Memset	16	static

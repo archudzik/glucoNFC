@@ -1,0 +1,10 @@
+../src/iap_nss.c:39:10:Chip_IAP_ReadFactorySettings	24	static
+../src/iap_nss.c:72:10:Chip_IAP_ReadPartID	24	static
+../src/iap_nss.c:86:5:Chip_IAP_ReadBootVersion	24	static
+../src/iap_nss.c:100:6:Chip_IAP_ReadUID	48	static
+../src/iap_nss.c:138:14:Chip_IAP_Flash_PrepareSector	24	static
+../src/iap_nss.c:156:14:Chip_IAP_Flash_EraseSector	32	static
+../src/iap_nss.c:175:14:Chip_IAP_Flash_ErasePage	32	static
+../src/iap_nss.c:194:14:Chip_IAP_Flash_Program	32	static
+../src/iap_nss.c:214:14:Chip_IAP_Flash_SectorBlankCheck	48	static
+../src/iap_nss.c:242:14:Chip_IAP_Compare	48	static

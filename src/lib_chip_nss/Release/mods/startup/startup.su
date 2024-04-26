@@ -1,0 +1,3 @@
+C:/Users/archu/Documents/MCUXpressoIDE_11.7.1_9221/workspace/mods/startup/startup.c:60:13:defaultIntHandler	0	static
+C:/Users/archu/Documents/MCUXpressoIDE_11.7.1_9221/workspace/mods/startup/startup.c:99:6:Startup_VarInit	20	static
+C:/Users/archu/Documents/MCUXpressoIDE_11.7.1_9221/workspace/mods/startup/startup.c:68:13:defaultResetISR	8	static

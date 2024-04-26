@@ -1,0 +1,6 @@
+../src/timer_nss.c:20:6:Chip_TIMER_Init	8	static
+../src/timer_nss.c:27:6:Chip_TIMER_DeInit	8	static
+../src/timer_nss.c:33:6:Chip_TIMER_Reset	0	static
+../src/timer_nss.c:54:6:Chip_TIMER_ExtMatchControlSet	20	static
+../src/timer_nss.c:69:6:Chip_TIMER_SetMatchOutputMode	0	static
+../src/timer_nss.c:80:31:Chip_TIMER_GetMatchOutputMode	0	static

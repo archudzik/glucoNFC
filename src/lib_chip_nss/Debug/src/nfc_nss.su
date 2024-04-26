@@ -1,0 +1,12 @@
+../src/nfc_nss.c:41:14:Chip_NFC_GetStatus	0	static
+../src/nfc_nss.c:46:6:Chip_NFC_Int_SetEnabledMask	0	static
+../src/nfc_nss.c:51:11:Chip_NFC_Int_GetEnabledMask	0	static
+../src/nfc_nss.c:56:11:Chip_NFC_Int_GetRawStatus	0	static
+../src/nfc_nss.c:61:6:Chip_NFC_Int_ClearRawStatus	8	static
+../src/nfc_nss.c:24:6:Chip_NFC_Init	16	static
+../src/nfc_nss.c:34:6:Chip_NFC_DeInit	8	static
+../src/nfc_nss.c:71:6:Chip_NFC_SetTargetAddress	0	static
+../src/nfc_nss.c:76:10:Chip_NFC_GetTargetAddress	0	static
+../src/nfc_nss.c:81:6:Chip_NFC_GetLastAccessInfo	8	static
+../src/nfc_nss.c:88:6:Chip_NFC_WordWrite	16	static
+../src/nfc_nss.c:105:6:Chip_NFC_ByteRead	16	static

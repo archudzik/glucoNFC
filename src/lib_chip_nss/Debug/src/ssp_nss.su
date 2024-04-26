@@ -1,0 +1,16 @@
+../src/ssp_nss.c:23:13:Write2BFifo	0	static
+../src/ssp_nss.c:36:13:Write1BFifo	0	static
+../src/ssp_nss.c:49:13:Read2BFifo	8	static
+../src/ssp_nss.c:64:13:Read1BFifo	8	static
+../src/ssp_nss.c:80:6:Chip_SSP_SetClockRate	8	static
+../src/ssp_nss.c:87:10:Chip_SSP_RWFrames_Blocking	16	static
+../src/ssp_nss.c:138:10:Chip_SSP_WriteFrames_Blocking	16	static
+../src/ssp_nss.c:199:10:Chip_SSP_ReadFrames_Blocking	16	static
+../src/ssp_nss.c:260:6:Chip_SSP_Int_FlushData	0	static
+../src/ssp_nss.c:274:8:Chip_SSP_Int_RWFrames8Bits	16	static
+../src/ssp_nss.c:304:8:Chip_SSP_Int_RWFrames16Bits	16	static
+../src/ssp_nss.c:334:6:Chip_SSP_SetMaster	0	static
+../src/ssp_nss.c:344:6:Chip_SSP_SetBitRate	32	static
+../src/ssp_nss.c:365:10:Chip_SSP_GetBitRate	24	static
+../src/ssp_nss.c:374:6:Chip_SSP_Init	8	static
+../src/ssp_nss.c:386:6:Chip_SSP_DeInit	8	static

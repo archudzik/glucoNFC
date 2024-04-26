@@ -1,0 +1,5 @@
+../src/gpio_nss.c:15:6:Chip_GPIO_Init	8	static
+../src/gpio_nss.c:21:6:Chip_GPIO_DeInit	8	static
+../src/gpio_nss.c:26:6:Chip_GPIO_SetPinDIR	8	static
+../src/gpio_nss.c:36:6:Chip_GPIO_SetPortDIR	0	static
+../src/gpio_nss.c:46:6:Chip_GPIO_SetupPinInt	20	static

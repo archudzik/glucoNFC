@@ -1,0 +1,16 @@
+../src/rtc_nss.c:28:6:Chip_RTC_Init	8	static
+../src/rtc_nss.c:34:6:Chip_RTC_DeInit	16	static
+../src/rtc_nss.c:46:6:Chip_RTC_SetCalibration	8	static
+../src/rtc_nss.c:51:5:Chip_RTC_GetCalibration	8	static
+../src/rtc_nss.c:56:6:Chip_RTC_Wakeup_SetControl	8	static
+../src/rtc_nss.c:61:18:Chip_RTC_Wakeup_GetControl	8	static
+../src/rtc_nss.c:66:6:Chip_RTC_Wakeup_SetReload	8	static
+../src/rtc_nss.c:71:5:Chip_RTC_Wakeup_GetReload	8	static
+../src/rtc_nss.c:76:5:Chip_RTC_Wakeup_GetRemaining	8	static
+../src/rtc_nss.c:81:6:Chip_RTC_Wakeup_IsRunning	16	static
+../src/rtc_nss.c:89:5:Chip_RTC_Time_GetValue	8	static
+../src/rtc_nss.c:94:6:Chip_RTC_Time_SetValue	8	static
+../src/rtc_nss.c:99:6:Chip_RTC_Int_SetEnabledMask	8	static
+../src/rtc_nss.c:104:11:Chip_RTC_Int_GetEnabledMask	8	static
+../src/rtc_nss.c:109:11:Chip_RTC_Int_GetRawStatus	8	static
+../src/rtc_nss.c:114:6:Chip_RTC_Int_ClearRawStatus	8	static

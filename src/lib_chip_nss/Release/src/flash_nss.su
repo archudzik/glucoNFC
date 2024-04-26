@@ -1,0 +1,4 @@
+../src/flash_nss.c:14:6:Chip_Flash_SetHighPowerMode	0	static
+../src/flash_nss.c:32:6:Chip_Flash_GetHighPowerMode	0	static
+../src/flash_nss.c:40:6:Chip_Flash_SetNumWaitStates	0	static
+../src/flash_nss.c:47:5:Chip_Flash_GetNumWaitStates	0	static

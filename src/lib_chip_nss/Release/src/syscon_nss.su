@@ -1,0 +1,17 @@
+../src/syscon_nss.c:29:6:Chip_SysCon_IVT_SetAddress	0	static
+../src/syscon_nss.c:49:10:Chip_SysCon_IVT_GetAddress	0	static
+../src/syscon_nss.c:70:6:Chip_SysCon_Peripheral_AssertReset	0	static
+../src/syscon_nss.c:76:6:Chip_SysCon_Peripheral_DeassertReset	0	static
+../src/syscon_nss.c:82:6:Chip_SysCon_Peripheral_EnablePower	8	static
+../src/syscon_nss.c:88:6:Chip_SysCon_Peripheral_DisablePower	8	static
+../src/syscon_nss.c:94:6:Chip_SysCon_Peripheral_SetPowerDisabled	0	static
+../src/syscon_nss.c:99:27:Chip_SysCon_Peripheral_GetPowerDisabled	0	static
+../src/syscon_nss.c:104:22:Chip_SysCon_Reset_GetSource	0	static
+../src/syscon_nss.c:109:6:Chip_SysCon_Reset_ClearSource	0	static
+../src/syscon_nss.c:114:6:Chip_SysCon_StartLogic_SetEnabledMask	0	static
+../src/syscon_nss.c:119:22:Chip_SysCon_StartLogic_GetEnabledMask	0	static
+../src/syscon_nss.c:124:22:Chip_SysCon_StartLogic_GetStatus	0	static
+../src/syscon_nss.c:129:6:Chip_SysCon_StartLogic_ClearStatus	0	static
+../src/syscon_nss.c:136:6:Chip_SysCon_StartLogic_SetPIORisingEdge	0	static
+../src/syscon_nss.c:141:22:Chip_SysCon_StartLogic_GetPIORisingEdge	0	static
+../src/syscon_nss.c:146:10:Chip_SysCon_GetDeviceID	0	static

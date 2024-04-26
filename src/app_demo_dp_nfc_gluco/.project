@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>app_demo_dp_nfc_gluco</name>
+	<comment></comment>
+	<projects>
+		<project>mods</project>
+		<project>lib_board_dp</project>
+		<project>lib_chip_nss</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.ScannerConfigBuilder</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>mods/msg</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/mods/msg</locationURI>
+		</link>
+		<link>
+			<name>mods/ndeft2t</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/mods/ndeft2t</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

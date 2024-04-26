@@ -1,0 +1,3 @@
+../src/bussync_nss.c:30:13:Chip_BusSync_WaitSync	0	static
+../src/bussync_nss.c:47:6:Chip_BusSync_WriteReg	24	static
+../src/bussync_nss.c:63:10:Chip_BusSync_ReadReg	24	static
