@@ -1,4 +1,4 @@
-# Prototype of Non-Continuous Glucose Monitoring using NHS3152 and NFC
+# Prototype of Glucose Monitoring using NHS3152 and NFC
 
 This repository provides an experimental and simplified setup for a non-continuous glucose monitoring system prototype using the NHS3152 development board, an NFC antenna, and an electrochemical sensor, such as a glucose oxidase (GOx) electrode. This project proposes a single-arm patch executed by a mobile phone through NFC, allowing for on-demand glucose measurements.
 
