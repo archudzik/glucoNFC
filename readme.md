@@ -212,3 +212,9 @@ Please note the following:
 # License
 
 This project is licensed under the MIT License.
+
+## Firmware dependencies and reuse
+
+This is a hardware research prototype rather than a validated glucose-monitoring product. Reproduction requires the NHS3152 development environment, compatible NFC hardware and a suitable electrochemical sensor. The sensor response needs calibration and independent validation; a readable NFC value is not in itself a clinically reliable glucose concentration.
+
+The MIT license covers the project's original code and documentation. Bundled vendor resources, hardware documentation, and third-party code, including `src/mods/compress/heatshrink`, retain their respective licenses. Preserve their notices when reusing any part of the firmware. Nothing in this repository grants a license to third-party hardware designs or SDKs.
